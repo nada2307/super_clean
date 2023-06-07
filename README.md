@@ -1,16 +1,25 @@
-# super_clean_app
+# Super Clean App
 
-A new Flutter project.
+## App Video:
+https://github.com/nada2307/super_clean/assets/62355168/77e4c9df-fe0d-42e7-adb0-015f2de13a7f
 
-## Getting Started
+## App Screens:
 
-This project is a starting point for a Flutter application.
+#### Splaash Screen
+![Screenshot_20230121-001133](https://github.com/nada2307/super_clean/assets/62355168/dea2cb7b-e76e-45ba-955d-904b4338d7d3)
 
-A few resources to get you started if this is your first Flutter project:
+#### OnBoarding Screens
+![Screenshot_20230129-190630](https://github.com/nada2307/super_clean/assets/62355168/7321f7be-5486-43b6-94ff-44d846c57b64)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20230129-190626](https://github.com/nada2307/super_clean/assets/62355168/31cd74ae-43ef-4b1a-86ed-77b756950da0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Profile Screens
+![Screenshot_20230129-190636](https://github.com/nada2307/super_clean/assets/62355168/d03e9466-7942-4460-8a2f-9452656b4eec)
+
+![Screenshot_20230129-190657](https://github.com/nada2307/super_clean/assets/62355168/db4e7b0c-36b3-44f5-a4bd-c86aaafc1ada)
+
+#### Plan Screen
+![Screenshot_20230129-190722](https://github.com/nada2307/super_clean/assets/62355168/fe5b7fff-a0c4-4a73-932c-8b36b3787319)
+
+#### Booking Screen
+![Screenshot_20230129-190747](https://github.com/nada2307/super_clean/assets/62355168/7533542b-c389-4a4d-bfb9-e4e025ca760a)
