@@ -1,5 +1,21 @@
 # Super Clean App
 
+- Mobile app for hassle-free cleaning appointment bookings. Users can effortlessly schedule appointments, choosing from daily, weekly, or monthly cleaning frequencies, and tailor their service requests to their needs. The app's intuitive calendar view keeps users organized by displaying all their booked appointments.
+- BloC state management is used to manage the app's business logic.
+
+## ✨ Features
+- Easy to use
+- View Profile
+- Book an appointment
+- View all booked appointments
+
+## 🔌 Packages
+- flutter_bloc
+- table_calendar
+- google_fonts
+- flutter_rating_bar
+- flutter_svg
+
 ## App Video:
 https://github.com/nada2307/super_clean/assets/62355168/77e4c9df-fe0d-42e7-adb0-015f2de13a7f
 
