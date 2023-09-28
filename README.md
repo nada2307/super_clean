@@ -1,7 +1,11 @@
 # Super Clean App
 
+## Description
+
 - Mobile app for hassle-free cleaning appointment bookings. Users can effortlessly schedule appointments, choosing from daily, weekly, or monthly cleaning frequencies, and tailor their service requests to their needs. The app's intuitive calendar view keeps users organized by displaying all their booked appointments.
-- BloC state management is used to manage the app's business logic.
+
+- [Visit the Figma design](https://xdfile.com/cleaning-services-app-ui-design-xd-template/)
+
 
 ## ✨ Features
 - Easy to use
