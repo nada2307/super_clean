@@ -43,3 +43,6 @@ https://github.com/nada2307/super_clean/assets/62355168/77e4c9df-fe0d-42e7-adb0-
 
 #### Booking Screen
 ![Screenshot_20230129-190747](https://github.com/nada2307/super_clean/assets/62355168/7533542b-c389-4a4d-bfb9-e4e025ca760a)
+
+## How to use:
+To use "Super Clean," start by cloning the repository and ensuring you have Flutter and Dart installed. Run flutter pub get to install dependencies, customize app settings, and launch it with flutter run.
